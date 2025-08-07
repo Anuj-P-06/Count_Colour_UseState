@@ -1,6 +1,6 @@
 
 import './App.css'
-import Color from './Components/Color'
+import Color from './components/Color'
 import Counter from './components/Counter'
 
 function App() {
