@@ -21,10 +21,10 @@ A simple and elegant React application featuring two interactive components: a c
 
 ## Technologies Used
 
-- **React 18+** - Frontend framework
+- **React ** - Frontend framework
 - **React Hooks** - useState for state management
-- **Tailwind CSS** - Utility-first CSS framework
-- **Vite** - Build tool (assumed based on modern React setup)
+- **Tailwind CSS** - CSS framework
+- **Vite** - Build tool 
 
 ## Project Structure
 
